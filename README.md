@@ -1,5 +1,7 @@
 # anime themes for the kitty terminal
 
+![](./screenshots/misa.conf.png)
+
 ## installation
 
 ```
